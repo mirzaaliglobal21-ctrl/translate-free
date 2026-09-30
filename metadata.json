@@ -1,0 +1,6 @@
+{
+  "name": "Urdu Translate",
+  "description": "Fast, accurate translation between Urdu, Roman Urdu, English, and 105+ languages with Nastaliq script and text-to-speech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
